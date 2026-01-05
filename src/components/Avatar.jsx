@@ -177,7 +177,7 @@ const Avatar = () => {
     pupil: {
       width: PUPIL_WIDTH,
       height: PUPIL_HEIGHT,
-      backgroundColor: '#202020',
+      backgroundColor: 'blue',
       borderRadius: '50%',
       position: 'absolute',
       top: '50%',
@@ -187,7 +187,7 @@ const Avatar = () => {
     shoulders: {
       width: 160,
       height: 80,
-      backgroundColor: '#202020',
+      backgroundColor: '#0367a561',
       borderRadius: '30px 30px 0 0',
       position: 'absolute',
       bottom: 0,

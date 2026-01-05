@@ -7,26 +7,33 @@ const Education = () => {
 
   const education = [
     {
-      institution: "Vasavi College of Engineering",
+      institution: "SNS College of Engineering",
       degree: "Bachelor of Engineering",
-      field: "Electronics and Communication Engineering (ECE)",
-      period: "2019-2023"
+      field: "Computer Science and Engineering (CSE)",
+      period: "2020-2024"
     },
     {
-      institution: "Sri Chaitanya Junior College",
-      degree: "Intermediate",
-      field: "MPC",
-      period: "2017-2019"
+      institution: "CMS Matriculation Higher Secondary School",
+      degree: "HSC",
+      field: "",
+      period: "2018-2020"
+      
+    },
+    {
+      institution: "P.R.Siddha Naidu Matriculation Higher Secondary School",
+      degree: "SSLC",
+      field: "",
+      period: "2017-2018"
     }
   ];
 
   const achievements = [
-    "Winner – IWD Hackathon by Google Developer Group Hyderabad",
-    "4* Coder on CodeChef, solved 600+ DSA problems across platforms like LeetCode, CodeChef, and CSES",
-    "CodeChef Student Chapter & GDG CP Lead – Led competitive programming events and workshops",
-    "National Handball Goalkeeper – Kendriya Vidyalaya",
-    "2019 National & Indian National Mathematics Olympiad (INMO) Regionalist",
-    "Participated in Hackathon conducted by VIIT ACM Chapter"
+    "Strong foundation in C Programming & Core CS concepts",
+    "Actively practicing DSA & coding problems on platforms like LeetCode and freeCodeCamp",
+    "NPTEL Certified in Cloud Computing (IIT Kharagpur, Govt. of India – SWAYAM)",
+    "freeCodeCamp Certified – Responsive Web Design V8 (300+ hours of hands-on practice)",
+    "Completed Python & Data Structures courses, focused on problem-solving fundamentals",
+    "Oracle Cloud Infrastructure 2021 Certified Architect – Professional"
   ];
 
   const containerVariants = {
